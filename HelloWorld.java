@@ -13,7 +13,7 @@ public final class HelloWorld {
     *
     */
     private HelloWorld() {
-        // Do literaly nothing, but makes the linter happy.
+        // Do literally nothing, but makes the linter happy.
     }
 
     /**
