@@ -10,7 +10,6 @@
 public final class HelloWorld {
     /**
     * Private constructor to make the linter happy.
-    *
     */
     private HelloWorld() {
         // Do literally nothing, but makes the linter happy.
