@@ -7,19 +7,8 @@
 */
 
 // Create class for the script
-public final class HelloWorld {
-    /**
-    * Private constructor to make the linter happy.
-    */
-    private HelloWorld() {
-        // Do literally nothing, but makes the linter happy.
-    }
-
-    /**
-    * Create main function.
-    *
-    * @param args Command line arguments.
-    */
+public class HelloWorld {
+    // Create main function
     public static void main(String[] args) {
         // Display the dialogue to the console
         System.out.println("Hey Ioana!");
